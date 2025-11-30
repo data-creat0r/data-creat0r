@@ -28,3 +28,9 @@ I combine 3 years of hands-on trading experience (crypto, forex, indices) with a
 
 I’m self-taught and progressing without mentors - learning through projects, practice and constant iteration.  
 I believe that with genuine desire and consistent work, it’s possible to achieve strong results.
+
+---
+
+## 🔗 Find me
+
+- [LinkedIn](https://www.linkedin.com/in/tair-havrylo-91426b351/)
