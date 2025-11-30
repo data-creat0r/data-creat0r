@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Tair 👋
 
-<!--
-**data-creat0r/data-creat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst focused on finance, trading and macroeconomics.  
+I combine 3 years of hands-on trading experience (crypto, forex, indices) with a growing skill set in data analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About me
+
+- I started with trading and macroeconomic analysis - tracking markets, economic indicators and news to make data-driven decisions.  
+- Over time this grew into a strong interest in financial data analysis: cleaning data, exploring patterns and turning numbers into insights.  
+- I work confidently in Excel, practise SQL, and am actively improving my Python skills for more efficient analysis and automation.  
+- I’m especially interested in macroeconomic and financial market data - above all, turning it into clear insights that support financial and investment decision-making.
+- In parallel, I have experience in copywriting and content creation, which helps me explain complex ideas in simple, structured language — from short posts to longer analytical texts.
+
+---
+
+## 🛠 Tech & tools
+
+- Spreadsheets: Excel, Google Sheets  
+- Data: SQL (learning), Python (learning)
+- Domains: Trading (crypto, forex, indices), macroeconomics, public finance  
+- Extras: Copywriting, analytical writing, documentation
+  
+---
+
+## 🚀 How I learn
+
+I’m self-taught and progressing without mentors - learning through projects, practice and constant iteration.  
+I believe that with genuine desire and consistent work, it’s possible to achieve strong results.
