@@ -17,9 +17,10 @@ I combine 3 years of hands-on trading experience (crypto, forex, indices) with a
 
 ## 🛠 Tech & tools
 
-- Spreadsheets: Excel (formulas, Power Query, VBA), Google Sheets  
-- Data: SQL (learning), Python (learning), basic data cleaning and analysis  
-- Domains: Trading (crypto, forex, indices), macroeconomics, public finance  
+- Spreadsheets: Excel (complex formulas, Power Query, VBA), Google Sheets
+- SQL (PostgreSQL): JOINS, Subqueries & CTEs, Window functions, Data transformations, Views, Stored procedures, Data quality checks
+- Python: basics in pandas and NumPy, data cleaning and transformation, basic exploratory analysis and visualization (Matplotlib)
+- Domains: Trading (crypto, forex, indices), macroeconomic analysis 
 - Extras: Copywriting, analytical writing, documentation
 
 ---
