@@ -1,7 +1,7 @@
 # Hi, I'm Tair 👋
 
 Junior Data Analyst focused on finance, trading and macroeconomics.  
-I combine 3 years of hands-on trading experience (crypto, forex, indices) with a growing skill set in data analysis.
+I combine 3 years of trading experience (crypto, forex, indices) with a growing skill set in data analysis.
 
 ---
 
@@ -9,7 +9,7 @@ I combine 3 years of hands-on trading experience (crypto, forex, indices) with a
 
 - I started with trading and macroeconomic analysis - tracking markets, economic indicators and news to make data-driven decisions.  
 - Over time this grew into a strong interest in financial data analysis: cleaning data, exploring patterns and turning numbers into insights.  
-- I work confidently in Excel, including complex formulas, Power Query queries and VBA automation, practise SQL, and am actively improving my Python skills for more efficient analysis and automation.  
+- I work confidently in Excel, including complex formulas, Power Query queries and VBA automation, practise SQL, and actively improving my Python skills for more efficient analysis and automation.  
 - I’m especially interested in macroeconomic and financial market data - above all, turning it into clear insights that support financial and investment decision-making.
 - In parallel, I have experience in copywriting and content creation, which helps me explain complex ideas in simple, structured language - from short posts to longer analytical texts.
 
@@ -17,11 +17,11 @@ I combine 3 years of hands-on trading experience (crypto, forex, indices) with a
 
 ## 🛠 Tech & tools
 
-- Spreadsheets: Excel (complex formulas, Power Query, VBA), Google Sheets
+- Spreadsheets: Excel (Complex formulas, Power Query, VBA), Google Sheets
 - SQL (PostgreSQL): JOINS, Subqueries & CTEs, Window functions, Data transformations, Views, Stored procedures, Data quality checks
-- Python: basics in pandas and NumPy, data cleaning and transformation, basic exploratory analysis and visualization (Matplotlib)
-- Domains: Trading (crypto, forex, indices), macroeconomic analysis 
-- Extras: Copywriting, analytical writing, documentation
+- Python: Basics in pandas and NumPy, Data cleaning and transformation, Basic exploratory analysis and visualization
+- Domains: Trading (crypto, forex, indices), Macroeconomic analysis 
+- Extras: Copywriting, Analytical writing, Documentation
 
 ---
 
